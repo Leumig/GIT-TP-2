@@ -17,6 +17,47 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
 
+GAMMA:
+
+Laura Colque  // Hora: 18:29
+
+
+C:\Users\laura>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::6101:fe92:7df9:a12b%9
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : home
+   IPv6 Address. . . . . . . . . . . : 2800:810:5c6:69a:39b0:27d5:bda9:ba3e
+   IPv6 Address. . . . . . . . . . . : 2800:810:5c6:69a:7952:b6e9:f888:fe0c
+   IPv6 Address. . . . . . . . . . . : fdaa:bbcc:ddee:0:7952:b6e9:f888:fe0c
+   Temporary IPv6 Address. . . . . . : 2800:810:5c6:69a:70ee:e4df:82a9:573a
+   Temporary IPv6 Address. . . . . . : fdaa:bbcc:ddee:0:70ee:e4df:82a9:573a
+   Link-local IPv6 Address . . . . . : fe80::7952:b6e9:f888:fe0c%11
+   IPv4 Address. . . . . . . . . . . : 192.168.0.38
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::8ec5:b4ff:feea:255d%11
+                                       192.168.0.1 
 
 Alfa: Diego Coria 
 Hora: 19:29
