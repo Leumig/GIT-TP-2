@@ -1,0 +1,20 @@
+a- Al finalizar toda la interacción el master queda actualizado con todo lo que se fue desarrollando en las otras dos ramas.
+
+b- Sí, pudo ver los cambios realizados. 
+
+c- Primero veo qué ramas tengo con el comando:
+git branch
+Después para pasar el desarrollo de las otras ramas a a la de la rama master, usé el comando:
+git merge [y la rama]
+Por último, lo subí con el git push.
+
+d- 
+
+
+e- 
+
+
+f- 
+
+
+g- 
