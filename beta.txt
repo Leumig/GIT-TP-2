@@ -1,4 +1,4 @@
-BETA:  Miguel Ángel Gil  // Hora: 17:56
+BETA:  Miguel Ángel Gil  // Hora: 17:57
 
 Configuración IP de Windows
 
@@ -22,8 +22,8 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
 //////////////////////////////////////////////////////////////////////////////////////////////
 Alfa: Diego Coria 
 Hora: 19:29
-Configuracion IP de Windows
 
+Configuracion IP de Windows
 
 Adaptador de Ethernet Ethernet 2:
 
