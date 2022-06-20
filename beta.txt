@@ -19,7 +19,8 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
 
 
 Alfa: Diego Coria 
-Configuraci▒n IP de Windows
+Hora: 19:29
+Configuracion IP de Windows
 
 
 Adaptador de Ethernet Ethernet 2:
