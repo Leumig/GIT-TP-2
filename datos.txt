@@ -1,0 +1,3 @@
+GAMMA:  Laura Colque  // IP: 192.168.56.1 // Hora: 2:02 am
+ALPHA:  Diego Coria   // IP: 186.153.96.17 // Hora 16:21 pm
+BETA: Miguel Ángel Gil   // IP: 192.168.0.6 // Hora 16:55 pm
