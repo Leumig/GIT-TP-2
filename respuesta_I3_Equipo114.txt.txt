@@ -1,0 +1,28 @@
+A- Al finalizar toda la interacción el master queda actualizado con todo lo que se fue desarrollando en las otras dos ramas.
+
+B- Sí, pudo ver los cambios realizados. 
+
+C- Primero veo qué ramas tengo con el comando:
+git branch
+Después para pasar el desarrollo de las otras ramas a a la de la rama master, usé el comando:
+git merge [y la rama]
+Por último, lo subí con el git push.
+
+D- La de BETA si pero la de GAMMA no, porque me olvide de escribir en mi archivo CPUGamma.txt
+el contenido de proc/cpuinfo y cuando lo mofique y actulaize forze con el git push -f entonces 
+se borraron los otros commits de los colaboradores y solo quedo el mio.
+
+E- Los problemas que surgieron fue que al hacer el merge, tiraba por consola consola que no habia una correlacion en el historial
+de merge, entonces lo soluciono con el comando git pull y la extension --allow-unrelated-histories; con el comando git push -f fuerza el push
+y ademas lo sobreescribe su repositorio.
+
+F- git init
+   git pull link del repositororio gil --> actualizo mi repositorio local lo que estaba en la rama creada por beta
+   git checkout gil --> me cambio a la rama creada por beta   
+   abro el archivo de beta.txt agrego mis datos con el contenido de ipconfig 
+   git status 
+   git add "beta.txt" --> agrego el archivo
+   git commit -m "agrego mis datos al archivo de beta"	
+   git push -u origin gil --> pusheo a la rama de beta
+
+G- 
