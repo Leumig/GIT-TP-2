@@ -26,4 +26,5 @@ F- git init
    git push -u origin gil --> pusheo a la rama de beta 
 
 
-G- 
+G- Primero actualicé mi archivo local haciendo git pull al repositorio (o descargandolo de 0), después abro el archivo beta.txt y lo actualizo con mis datos. Para obtener la información que retorna ipconfig usé el comando
+ipconfig (que es el equivalente a ifconfig pero para Windows). Y para terminar hice el push -u origin para subir todos los cambios.
