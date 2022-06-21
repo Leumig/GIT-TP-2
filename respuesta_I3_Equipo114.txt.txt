@@ -1,3 +1,6 @@
+Integrantes:
+Alfa: Diego Coria   Beta: Miguel Gil  Gamma: Laura Colque
+
 A- Al finalizar toda la interacción el master queda actualizado con todo lo que se fue desarrollando en las otras dos ramas.
 
 B- Sí, pudo ver los cambios realizados. 
